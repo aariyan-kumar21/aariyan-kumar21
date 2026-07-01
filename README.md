@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0417,50:2D1B4E,100:432D6E&height=280&section=header&text=Aariyan%20Kumar&fontSize=60&fontColor=DDD6FE&animation=fadeIn&fontAlignY=38&desc=Pursuing%20B.Tech%20CSE%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
 
@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Pursuing+B.Tech+CSE;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Building+Scalable+Software;Learning+Every+Day&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=C4B5FD&vCenter=true&size=24&weight=600" alt="Typing SVG" />
 </a>
 
-<h3 align="center">
-  <sub><b>Pursuing B.Tech CSE</b></sub>
+<p align="center" style="font-size:19px;">
+  <b>Pursuing B.Tech CSE</b>
   <br/>
-  <sub><b>Aspiring Software Engineer</b></sub>
-</h3>
+  <b>Aspiring Software Engineer</b>
+</p>
 
 <p align="center">
   <a href="#">
@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aariyan-kumar-483681324/">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="LinkedIn" height="36"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E&color=2D1B4E" alt="LinkedIn" height="36"/>
   </a>
 </p>
 
@@ -30,9 +30,9 @@
 
 <br/>
 
+<div style="padding: 36px 0;">
 <h2 align="center">🜲 About Me</h2>
-
-<br/>
+</div>
 
 <div align="center">
 
@@ -69,16 +69,16 @@ scalable software.
 
 <br/>
 
+<div style="padding: 36px 0;">
 <h2 align="center">🜲 Tech Stack</h2>
-
-<br/>
+</div>
 
 <div align="center">
 
 <h4>LANGUAGES &amp; TOOLS</h4>
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=py" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=mysql" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=git" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=github" width="50" style="margin:0 3px;"/>
+<img src="https://skillicons.dev/icons?i=java" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=py" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=mysql" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=git" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=github" width="50" style="margin:0 10px;"/>
 </p>
 
 <br/>
@@ -86,7 +86,7 @@ scalable software.
 <h4>DEVELOPMENT</h4>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=css" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=js" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=react" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=express" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:0 3px;"/>
+<img src="https://skillicons.dev/icons?i=html" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=css" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=js" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=react" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=express" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:0 10px;"/><img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:0 10px;"/>
 </p>
 
 </div>
@@ -99,7 +99,9 @@ scalable software.
 
 <br/>
 
+<div style="padding: 36px 0;">
 <h2 align="center">🜲 Current Focus</h2>
+</div>
 
 <div align="center">
 
@@ -144,9 +146,9 @@ scalable software.
 
 <br/>
 
+<div style="padding: 36px 0;">
 <h2 align="center">🜲 Featured Projects</h2>
-
-<br/>
+</div>
 
 <details>
 <summary><b>🔹 Java DSA Repository</b></summary>
@@ -188,8 +190,8 @@ and more — built for both learning and interview preparation.
 
 <br/><br/>
 
-<div align="center">
+<div align="center" style="padding: 40px 0;">
 
-<sub>Building with passion.</sub>
+<h3>Building with passion.</h3>
 
 </div>
