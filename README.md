@@ -30,7 +30,7 @@
 
 <br/>
 
-<div style="padding: 26px 0;">
+<div style="padding: 26px 0;justify-content:center;">
 <h2 align="center">🜲 About Me</h2>
 </div>
 
