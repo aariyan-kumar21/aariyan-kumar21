@@ -130,7 +130,7 @@ scalable software.
     <tr>
       <td align="center"><b>Exploring</b></td>
       <td>
-        Backend &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; Cloud &nbsp;•&nbsp; System Design
+        Backend &nbsp;•&nbsp; APIs &nbsp;•&nbsp; Cloud &nbsp;•&nbsp; System Design
       </td>
     </tr>
   </tbody>
@@ -175,7 +175,7 @@ and more — built for both learning and interview preparation.
 <br/>
 
 <p align="left">
-  <a href="#">
+  <a href="https://github.com/aariyan-kumar21/Java_DSA">
     <img src="https://img.shields.io/badge/View_Repository-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="Repository"/>
   </a>
 </p>
