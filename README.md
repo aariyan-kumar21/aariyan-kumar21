@@ -1,228 +1,336 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:312E81&text=Aariyan%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20Development%20%7C%20Product%20Engineering&descAlignY=56&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Scalable+Software+Products;Always+Learning+Something+New"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0417,50:1A0B2E,100:2D0B4E&height=280&section=header&text=Aariyan%20Kumar&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Pursuing%20B.Tech%20CSE%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
 
 <br/>
-
-![](https://img.shields.io/badge/B.Tech-CSE-4F46E5?style=for-the-badge&logo=academia&logoColor=white)
-![](https://img.shields.io/badge/Software-Engineering-6D28D9?style=for-the-badge&logo=codefactor&logoColor=white)
-![](https://img.shields.io/badge/Full%20Stack-Developer-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Open%20to-Internships-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white)
-
-<br/>
-
-![](https://img.shields.io/badge/Location-Bengaluru,%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/><br/>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/aariyan-kumar21">
-<img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pursuing+B.Tech+CSE;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Building+Scalable+Software;Learning+Every+Day&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=A78BFA&vCenter=true&size=24&weight=600" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=aariyan-kumar21&style=for-the-badge&color=6D28D9)
-![](https://img.shields.io/github/followers/aariyan-kumar21?style=for-the-badge&color=7C3AED&label=Followers)
-![](https://img.shields.io/github/stars/aariyan-kumar21?style=for-the-badge&color=8B5CF6&label=Stars)
+<h3 align="center">
+  <sub>Pursuing B.Tech CSE</sub>
+  <br/>
+  <sub>Aspiring Software Engineer</sub>
+</h3>
+
+<br/>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aariyan-kumar-483681324/">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="LinkedIn"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 
 </div>
 
----
+<br/>
 
-# About Me
+<div align="center">
 
-I'm a **Computer Science Engineering student** passionate about designing scalable software systems and building modern digital products. My primary focus is developing strong software engineering fundamentals while continuously expanding my expertise in **Full Stack Development**, **Backend Engineering**, and **Product-Oriented Development**.
+## 🜲 About Me
 
-I enjoy transforming ideas into production-ready applications through clean architecture, efficient problem-solving, and maintainable code. Alongside software development, I actively strengthen my understanding of algorithms, data structures, databases, and engineering best practices.
+</div>
 
-I believe in writing software that is reliable, scalable, and impactful while maintaining a strong product engineering mindset.
+<br/>
 
-### Professional Interests
+<div align="center">
 
-- Software Engineering
-- Full Stack Development
-- Product Engineering
-- Backend Development
-- Cloud Technologies
-- Open Source
-- System Design
-- Continuous Learning
+I am a software engineer in the making, driven by a deep interest in building
+clean, scalable, and reliable systems. My work is rooted in strong fundamentals
+of problem solving, data structures, and algorithms, paired with a practical
+understanding of full stack development — from designing intuitive frontend
+experiences to architecting robust backend services. I care about writing code
+that is not just functional, but maintainable, efficient, and built to scale.
 
-**Currently Open to Software Engineering & Full Stack Development Internship Opportunities.**
+<br/>
 
----
+My current focus lies in backend engineering and product engineering — understanding
+how real world applications are designed, structured, and shipped at scale. I enjoy
+translating complex problems into simple, elegant solutions, and I am continuously
+refining my engineering instincts through hands on projects, deliberate practice, and
+a genuine curiosity for how great software is built.
 
-# Tech Stack
+<br/>
 
-## Languages
+I am currently deepening my expertise in **Java, Data Structures & Algorithms, and the
+MERN Stack**, while actively building projects that reflect real world engineering
+standards. I am open to **Software Engineering Internship** opportunities where I can
+contribute meaningfully, learn from experienced engineers, and grow as a builder of
+scalable software.
 
-<p align="center">
+</div>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql"/>
+<br/>
 
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+</div>
 
----
+<br/>
 
-## Frontend
+<div align="center">
 
-<p align="center">
+## 🜲 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
+</div>
 
-</p>
+<br/>
 
----
+<div align="center">
 
-## Backend & Databases
+<sub><b>LANGUAGES & TOOLS</b></sub>
 
-<p align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,py,mysql,git,github&theme=dark" />
 
-</p>
+<br/><br/><br/>
 
----
+<sub><b>DEVELOPMENT</b></sub>
 
-# Current Focus
+<br/><br/>
 
-| Focus Area | Status |
-|------------|--------|
-| Learning | Advanced Java, Data Structures & Algorithms, MERN Stack |
-| Building | Full Stack Projects, Portfolio Applications, Real-world Products |
-| Exploring | Backend Engineering, APIs, Cloud Computing, System Design |
-| Opportunities | Open to Software Engineering & Full Stack Internship Opportunities |
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind&theme=dark" />
 
----
+</div>
 
-# Featured Projects
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🜲 Current Focus
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">🜲</th>
+      <th align="left">Focus Area</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Learning</b></td>
+      <td>
+        Java &nbsp;•&nbsp; DSA &nbsp;•&nbsp; MERN Stack
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Building</b></td>
+      <td>
+        Full Stack Applications &nbsp;•&nbsp; Portfolio Projects &nbsp;•&nbsp; Real World Projects
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Exploring</b></td>
+      <td>
+        Backend &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; Cloud &nbsp;•&nbsp; System Design
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🜲 Featured Projects
+
+</div>
+
+<br/>
 
 <details>
-<summary><strong>Java DSA Repository</strong></summary>
+<summary><b>🔹 Java DSA Repository</b></summary>
 
-<br>
+<br/>
 
-Comprehensive collection of Java Data Structures & Algorithms problems with optimized solutions, interview preparation material, and concept explanations.
+**Overview**
+A structured, continuously updated repository documenting my journey through
+Data Structures & Algorithms in Java. Contains categorized solutions, notes, and
+patterns covering arrays, strings, linked lists, trees, graphs, dynamic programming,
+and more — built for both learning and interview preparation.
 
 **Tech Stack**
 
-- Java
-- Git
-- GitHub
+<img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
 
-**Repository**
+**Highlights**
 
-https://github.com/aariyan-kumar21/Java_DSA
+- Well organized, topic-wise folder structure for easy navigation
+- Focus on optimized time and space complexity solutions
+- Consistent problem solving practice with documented approaches
+- Clean, readable, and well commented Java code
+
+<br/>
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/View_Repository-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Repository"/>
+  </a>
+</p>
 
 </details>
 
+<br/>
+
 <details>
-<summary><strong>Groww Clone</strong></summary>
+<summary><b>🔹 Groww Clone</b></summary>
 
-<br>
+<br/>
 
-A full stack investment platform inspired by Groww, focused on authentication, dashboards, portfolio management, and scalable architecture.
+**Overview**
+A frontend replica of the Groww investment platform, focused on recreating a
+polished, responsive, and production grade user interface. Built to strengthen
+component design skills and deepen understanding of real world fintech UI/UX
+patterns.
 
 **Tech Stack**
 
-- HTML
-- CSS
-- JavaScript
-- MERN Stack
-- MySQL
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+**Highlights**
+
+- Pixel accurate, fully responsive UI across devices
+- Reusable, modular component architecture
+- Smooth navigation and clean state management
+- Performance conscious rendering and asset optimization
+
+<br/>
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/View_Repository-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Repository"/>
+  </a>
+</p>
 
 </details>
 
+<br/>
+
 <details>
-<summary><strong>Developer Portfolio</strong></summary>
+<summary><b>🔹 Developer Portfolio</b></summary>
 
-<br>
+<br/>
 
-Modern responsive developer portfolio showcasing projects, skills, GitHub activity, and professional achievements.
+**Overview**
+A personal portfolio website designed to showcase my projects, skills, and
+engineering journey. Built with a minimal, premium aesthetic to present my work
+in a recruiter friendly and professional manner.
 
 **Tech Stack**
 
-- HTML
-- CSS
-- JavaScript
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+
+**Highlights**
+
+- Minimal, premium dark themed design language
+- Fully responsive across desktop, tablet, and mobile
+- Optimized load performance and smooth animations
+- Structured project showcase with detailed case studies
+
+<br/>
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/View_Repository-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Repository"/>
+  </a>
+</p>
 
 </details>
 
----
+<br/>
 
-# GitHub Analytics
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aariyan-kumar21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+## 🜲 Contribution Graph
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aariyan-kumar21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/aariyan-kumar21/aariyan-kumar21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+<sub><i>Add the following workflow at <code>.github/workflows/snake.yml</code> in your profile repository to activate the animation:</i></sub>
 
 </div>
 
-<br>
+<br/>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: aariyan-kumar21
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aariyan-kumar21&theme=tokyonight&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </div>
 
-<br>
+<br/><br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aariyan-kumar21&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# Connect
-
-<div align="center">
-
-| Platform | Link |
-|-----------|------|
-| Gmail | your-email@example.com |
-| LinkedIn | https://linkedin.com/in/your-linkedin |
-| GitHub | https://github.com/aariyan-kumar21 |
-| Portfolio | https://your-portfolio.com |
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aariyan-kumar21/aariyan-kumar21/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aariyan-kumar21/aariyan-kumar21/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aariyan-kumar21/aariyan-kumar21/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### Building software with consistency, curiosity, and an engineering-first mindset.
+<sub>Building with passion.</sub>
 
 </div>
