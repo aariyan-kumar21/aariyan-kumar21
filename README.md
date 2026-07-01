@@ -1,30 +1,24 @@
-<div align="center">
+<<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0417,50:1A0B2E,100:2D0B4E&height=280&section=header&text=Aariyan%20Kumar&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Pursuing%20B.Tech%20CSE%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0417,50:2D1B4E,100:432D6E&height=280&section=header&text=Aariyan%20Kumar&fontSize=60&fontColor=DDD6FE&animation=fadeIn&fontAlignY=38&desc=Pursuing%20B.Tech%20CSE%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
 
 <a href="https://github.com/aariyan-kumar21">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Pursuing+B.Tech+CSE;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Building+Scalable+Software;Learning+Every+Day&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=A78BFA&vCenter=true&size=24&weight=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pursuing+B.Tech+CSE;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Building+Scalable+Software;Learning+Every+Day&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=C4B5FD&vCenter=true&size=24&weight=600" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
 <h3 align="center">
-  <sub>Pursuing B.Tech CSE</sub>
+  <sub><b>Pursuing B.Tech CSE</b></sub>
   <br/>
-  <sub>Aspiring Software Engineer</sub>
+  <sub><b>Aspiring Software Engineer</b></sub>
 </h3>
-
-<br/>
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="Portfolio" height="36"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aariyan-kumar-483681324/">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="LinkedIn" height="36"/>
   </a>
 </p>
 
@@ -36,11 +30,7 @@
 
 <br/>
 
-<div align="center">
-
-## 🜲 About Me
-
-</div>
+<h2 align="center">🜲 About Me</h2>
 
 <br/>
 
@@ -79,29 +69,25 @@ scalable software.
 
 <br/>
 
-<div align="center">
-
-## 🜲 Tech Stack
-
-</div>
+<h2 align="center">🜲 Tech Stack</h2>
 
 <br/>
 
 <div align="center">
 
-<sub><b>LANGUAGES & TOOLS</b></sub>
+<h4>LANGUAGES &amp; TOOLS</h4>
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=py" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=mysql" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=git" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=github" width="50" style="margin:0 3px;"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,py,mysql,git,github&theme=dark" />
+<br/>
 
-<br/><br/><br/>
+<h4>DEVELOPMENT</h4>
 
-<sub><b>DEVELOPMENT</b></sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=css" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=js" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=react" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=express" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:0 3px;"/><img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:0 3px;"/>
+</p>
 
 </div>
 
@@ -113,9 +99,9 @@ scalable software.
 
 <br/>
 
-<div align="center">
+<h2 align="center">🜲 Current Focus</h2>
 
-## 🜲 Current Focus
+<div align="center">
 
 <br/>
 
@@ -158,11 +144,7 @@ scalable software.
 
 <br/>
 
-<div align="center">
-
-## 🜲 Featured Projects
-
-</div>
+<h2 align="center">🜲 Featured Projects</h2>
 
 <br/>
 
@@ -192,134 +174,11 @@ and more — built for both learning and interview preparation.
 
 <p align="left">
   <a href="#">
-    <img src="https://img.shields.io/badge/View_Repository-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Repository"/>
+    <img src="https://img.shields.io/badge/View_Repository-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="Repository"/>
   </a>
 </p>
 
 </details>
-
-<br/>
-
-<details>
-<summary><b>🔹 Groww Clone</b></summary>
-
-<br/>
-
-**Overview**
-A frontend replica of the Groww investment platform, focused on recreating a
-polished, responsive, and production grade user interface. Built to strengthen
-component design skills and deepen understanding of real world fintech UI/UX
-patterns.
-
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-
-**Highlights**
-
-- Pixel accurate, fully responsive UI across devices
-- Reusable, modular component architecture
-- Smooth navigation and clean state management
-- Performance conscious rendering and asset optimization
-
-<br/>
-
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/View_Repository-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Repository"/>
-  </a>
-</p>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🔹 Developer Portfolio</b></summary>
-
-<br/>
-
-**Overview**
-A personal portfolio website designed to showcase my projects, skills, and
-engineering journey. Built with a minimal, premium aesthetic to present my work
-in a recruiter friendly and professional manner.
-
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
-
-**Highlights**
-
-- Minimal, premium dark themed design language
-- Fully responsive across desktop, tablet, and mobile
-- Optimized load performance and smooth animations
-- Structured project showcase with detailed case studies
-
-<br/>
-
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/View_Repository-1A0B2E?style=for-the-badge&labelColor=0F0417&color=1A0B2E" alt="Repository"/>
-  </a>
-</p>
-
-</details>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🜲 Contribution Graph
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/aariyan-kumar21/aariyan-kumar21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
-<sub><i>Add the following workflow at <code>.github/workflows/snake.yml</code> in your profile repository to activate the animation:</i></sub>
-
-</div>
-
-<br/>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: aariyan-kumar21
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <br/>
 
