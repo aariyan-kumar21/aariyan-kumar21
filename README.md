@@ -30,7 +30,7 @@
 
 <br/>
 
-<div style="padding: 36px 0;">
+<div style="padding: 26px 0;">
 <h2 align="center">🜲 About Me</h2>
 </div>
 
@@ -69,7 +69,7 @@ scalable software.
 
 <br/>
 
-<div style="padding: 36px 0;">
+<div style="padding: 26px 0;">
 <h2 align="center">🜲 Tech Stack</h2>
 </div>
 
@@ -99,7 +99,7 @@ scalable software.
 
 <br/>
 
-<div style="padding: 36px 0;">
+<div style="padding: 26px 0;">
 <h2 align="center">🜲 Current Focus</h2>
 </div>
 
@@ -146,7 +146,7 @@ scalable software.
 
 <br/>
 
-<div style="padding: 36px 0;">
+<div style="padding: 26px 0;">
 <h2 align="center">🜲 Featured Projects</h2>
 </div>
 
@@ -190,8 +190,8 @@ and more — built for both learning and interview preparation.
 
 <br/><br/>
 
-<div align="center" style="padding: 40px 0;">
+<div align="center" style="padding: 20px 0;">
 
-<h3>Building with passion.</h3>
+<h1>Building with passion.</h1>
 
 </div>
