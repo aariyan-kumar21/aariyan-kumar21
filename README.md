@@ -24,15 +24,21 @@
   </a>
 </p>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
-
 </div>
 
 <br/><br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+</div>
+
+<br/>
+
 <h2 align="center">🜲 About Me</h2>
+
+<br/>
+
+
 
 <br/>
 
@@ -69,9 +75,12 @@ scalable software.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">🜲 Tech Stack</h2>
+
+<br/>
+
 
 <br/>
 
@@ -99,9 +108,13 @@ scalable software.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">🜲 Current Focus</h2>
+
+<br/>
+
+
 
 <br/>
 
@@ -144,9 +157,12 @@ scalable software.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">🜲 Featured Projects</h2>
+
+<br/>
+
 
 <br/>
 
@@ -182,16 +198,6 @@ and more — built for both learning and interview preparation.
 
 </details>
 
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
-</div>
-
 <br/><br/>
-
-<div align="center">
-
-## Building with passion.
 
 </div>
