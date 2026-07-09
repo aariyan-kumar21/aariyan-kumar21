@@ -7,11 +7,6 @@
 </a>
 
 <br/>
-
-### Pursuing B.Tech CSE
-
-### Aspiring Software Engineer
-
 <br/>
 
 <p align="center">
