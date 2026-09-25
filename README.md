@@ -147,38 +147,68 @@ scalable software.
 <br/>
 
 <details>
-<summary><b>🔹 Java DSA Repository</b></summary>
+<summary><b>🔹 Voyage</b></summary>
 
 <br/>
 
 **Overview**
-A structured, continuously updated repository documenting my journey through
-Data Structures & Algorithms in Java. Contains categorized solutions, notes, and
-patterns covering arrays, strings, linked lists, trees, graphs, dynamic programming,
-and more — built for both learning and interview preparation.
+Forget another blank workspace you build yourself. Voyage is alive — your streak,
+progress charts, and AI-crafted goal roadmaps are driven by what you actually do,
+not what you remember to type in, turning daily consistency into a system you can
+see and trust.
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
 
 **Highlights**
 
-- Well organized, topic-wise folder structure for easy navigation
-- Focus on optimized time and space complexity solutions
-- Consistent problem solving practice with documented approaches
-- Clean, readable, and well commented Java code
+- Live progress tracking with streaks and visual charts
+- AI-crafted goal roadmaps based on real activity, not manual logs
+- Designed to reflect what you actually do, reducing manual upkeep
+- Built as an always-on, self-updating workspace
 
 <br/>
 
 <p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/View_Repository-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="Repository"/>
+  <a href="https://github.com/aariyan-kumar21/Voyage">
+    <img src="https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&labelColor=1A0B2E&color=2D1B4E" alt="Repository"/>
   </a>
 </p>
 
 </details>
 
-<br/><br/>
+<br/>
 
-<div align="center">
-</div>
+<details>
+<summary><b>🔹 RailScout</b></summary>
+
+<br/>
+
+**Overview**
+A browser extension that helps travelers find a nearby station with a confirmed
+ticket, when their actual boarding station only shows a waitlisted (WL) seat —
+turning a common travel headache into a quick, actionable fix.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,chrome,git,github&theme=dark" />
+
+**Highlights**
+
+- Manifest V3 Chrome extension with a vanilla JS/HTML/CSS popup
+- Node.js + Express backend calling the RailRadar API via axios
+- In-memory caching, no database needed for v1
+- Detects waitlisted seats and surfaces nearby confirmed-ticket stations
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/aariyan-kumar21/RailScout">
+    <img src="https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&labelColor=1A0B2E&color=2D1B4E" alt="Repository"/>
+  </a>
+</p>
+
+</details>
+
+<br/>
