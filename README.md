@@ -7,15 +7,20 @@
 </a>
 
 <br/>
+
+### Pursuing B.Tech CSE
+
+### Aspiring Software Engineer
+
 <br/>
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="Portfolio" height="40"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-2D1B4E?style=flat-square&labelColor=1A0B2E&color=2D1B4E" alt="Portfolio" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aariyan-kumar-483681324/">
-    <img src="https://img.shields.io/badge/LINKEDIN-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E&color=2D1B4E" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-2D1B4E?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A0B2E&color=2D1B4E" alt="LinkedIn" height="40"/>
   </a>
 </p>
 
@@ -33,7 +38,7 @@
 
 <br/>
 
-
+<hr/>
 
 <br/>
 
@@ -76,6 +81,7 @@ scalable software.
 
 <br/>
 
+<hr/>
 
 <br/>
 
@@ -109,7 +115,7 @@ scalable software.
 
 <br/>
 
-
+<hr/>
 
 <br/>
 
@@ -158,6 +164,7 @@ scalable software.
 
 <br/>
 
+<hr/>
 
 <br/>
 
@@ -186,7 +193,7 @@ and more — built for both learning and interview preparation.
 <br/>
 
 <p align="left">
-  <a href="https://github.com/aariyan-kumar21/Java_DSA">
+  <a href="#">
     <img src="https://img.shields.io/badge/View_Repository-2D1B4E?style=for-the-badge&labelColor=1A0B2E&color=2D1B4E" alt="Repository"/>
   </a>
 </p>
@@ -194,5 +201,9 @@ and more — built for both learning and interview preparation.
 </details>
 
 <br/><br/>
+
+<div align="center">
+
+## Building with passion.
 
 </div>
